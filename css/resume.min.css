@@ -9,6 +9,13 @@ body {
     color: #868e96
 }
 
+.right1{
+    position: absolute;
+    padding-left: 350px;
+    padding-top: 296px;
+
+}
+
 @media (min-width:992px) {
     body {
         padding-top: 0;
